@@ -1,0 +1,16 @@
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: Roboto, Arial;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0px;
+  margin-top: 57px;
+  margin-left: 72px;
+  background-color: rgb(247, 247, 247);
+}
